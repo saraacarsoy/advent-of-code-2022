@@ -1,4 +1,4 @@
-file = open("/Users/saranilacarsoy/Documents/AdventOfCode/day4/2022-Day4Input.txt", "r").read().split("\n")
+file = open("/Users/saranilacarsoy/Documents/AdventOfCode/advent-of-code-2022/day4/2022-Day4Input.txt", "r").read().split("\n")
 
 amount = 0
 amount1=0

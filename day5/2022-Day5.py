@@ -1,4 +1,4 @@
-file = open("/Users/saranilacarsoy/Documents/AdventOfCode/day5/2022-Day5Input.txt", "r").read().split("\n")
+file = open("/Users/saranilacarsoy/Documents/AdventOfCode/advent-of-code-2022/day5/2022-Day5Input.txt", "r").read().split("\n")
 
 #remove from left and add to the left
 

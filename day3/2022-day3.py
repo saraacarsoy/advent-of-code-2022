@@ -1,4 +1,4 @@
-file = open("/Users/saranilacarsoy/Documents/AdventOfCode/day3/2022-day3Input.txt", "r").read().split("\n")
+file = open("/Users/saranilacarsoy/Documents/AdventOfCode/advent-of-code-2022/day3/2022-day3Input.txt", "r").read().split("\n")
 
 alphabeth = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
